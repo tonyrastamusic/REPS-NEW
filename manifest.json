@@ -1,0 +1,21 @@
+{
+  "name": "Reps — Трекер тренировок",
+  "short_name": "Reps",
+  "description": "Дневник тренировок с отслеживанием прогресса",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f10",
+  "theme_color": "#9b6cf7",
+  "lang": "ru",
+  "categories": ["health", "fitness", "sports"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
